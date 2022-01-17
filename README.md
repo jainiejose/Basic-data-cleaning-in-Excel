@@ -16,9 +16,9 @@ Why is data cleaning important? Data cleaning is an important aspect before any 
 
 ### Credits:
 
-(1) I learnt alot about the data world from the data and the engineering teams at ShopBack. This was my previous work experience before embarking on this new journey.
+(1) I learnt more about the data ecosystem from the data and the engineering teams back at ShopBack. This was my previous work experience before embarking on this new journey of being a data analyst. If your keen to find out more about the [Data, Product, Engineering & Design teams at ShopBack](https://medium.com/shopback-tech-blog/tagged/data). 
 
-(2) Its amazing how much you can learn on Youtube and its all free. Two vloggers that I follow and drew inspiration for this project are:
+(2) It's amazing how much you can learn on Youtube and its all free. Two vloggers that I follow and drew inspiration for this project are:
 
  - Matt Brattin: [Excel for Analytics - Portfolio Project Series Video 1 - Quick Excel Tips](https://www.youtube.com/watch?v=45_yTM1HfTc&list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3&index=1)
 
