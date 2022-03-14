@@ -1,4 +1,4 @@
-# Data cleaning in Excel
+# Basic data cleaning in Excel
 
 This project makes use of data sourced from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail), a popular repository for machine learning datasets. In particular, we will be using the "Online Retail Data Set". 
 
