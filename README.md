@@ -24,10 +24,8 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 * CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 * Country: Country name. Nominal, the name of the country where each customer resides.
 
-
-
-
-
+### Goal of this project:
+Cleaning data in excel depends on what the data is to be used for. However, for the purpose of this project, data was cleaned to ensure that all rows and columns are properly readable and filled with necessary information.
 
 
 ### Credits: 
